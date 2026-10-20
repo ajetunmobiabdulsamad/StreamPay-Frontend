@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-1687-import-and-export-the-contacts-address-book"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-1687-import-and-export-the-contacts-address-book": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-1687-import-and-export-the-contacts-address-book"
+  ]
+}
